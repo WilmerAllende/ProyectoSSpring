@@ -1,6 +1,6 @@
 # Configuración del Proyecto
-_Levantar las fuentas en Netbeans._
-_Base de datos MYSQL- Crear base de datos con nombre:  bdsoaint
+### Levantar las fuentas en Netbeans._
+### Base de datos MYSQL- Crear base de datos con nombre:  bdsoaint
 _La configuracion de Base de datos se encuentra en el archivo application.properties
 _Ingresar a la clase DemoApplication.java , click derecho y la opcion Run As
 _Darle click a la opcion Java Application
