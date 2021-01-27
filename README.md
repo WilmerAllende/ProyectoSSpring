@@ -3,4 +3,4 @@
 # Ingresar a la clase DemoApplication.java , click derecho y la opcion Run As
 # Darle click a la opcion Java Application
 # Archivo de credenciales para login: Credenciales.csv
-# URL Colection del POSTMAN para los metodos https://www.getpostman.com/collections/94f54ed516f3be4f30c7
+# URL de Collection del POSTMAN para los metodos https://www.getpostman.com/collections/94f54ed516f3be4f30c7
